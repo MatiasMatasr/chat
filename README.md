@@ -27,9 +27,9 @@ Projet: créer un site de T'chat.
 But: Grâce à une inscription, l'utilisateur pourra créer une discussion avec d'autres utilisateurs.
 Dans l'espace de discussion, l'utilisateur peut parler et les autres utilisateurs peuvent lui répondre, tout simplement.
 
-Etapes: - créer une base de donnée (couch db)(romain)
-        - faire la présentation du site (bootstrap + vue.js)
+Etapes: - créer une base de donnée (couch db)(Romain)
+        - faire la présentation du site (bootstrap + vue.js) (Louis/Matias) 
         - ...
         - tester une discussion
 
-        A COMPLETER ...
+        
